@@ -1,5 +1,5 @@
 ### Hi, I'm Leo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbyLeooo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 
 ## Your short description
@@ -7,12 +7,12 @@
 - 🌱 I’m currently learning - ❔❔❔❔
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
-- 🥅 2020 Goal - ❔❔❔❔
+- 🥅 2023 Goal - ❔❔❔❔
 - ⚡ Fun fact - ❔❔❔❔
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbyLeooo&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
